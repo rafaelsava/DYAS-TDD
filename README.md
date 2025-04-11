@@ -10,3 +10,4 @@
 
 ## Integrantes
 - Rafael Salcedo
+- Tomas Barrios
